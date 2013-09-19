@@ -1,0 +1,11 @@
+/.settings
+/.classpath
+/.project
+/module1/.settings
+/module1/target
+/module1/.classpath
+/module1/.project
+/module2/.settings
+/module2/target
+/module2/.classpath
+/module2/.project
