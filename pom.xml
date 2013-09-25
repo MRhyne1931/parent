@@ -17,6 +17,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<asset.random.version>5.7</asset.random.version>
 	</properties>
 
 	<dependencyManagement>
